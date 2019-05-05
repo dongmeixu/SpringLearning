@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Class003" />
+        <module name="CLass005" />
+        <module name="CLass006" />
+        <module name="Class007" />
+        <module name="Class009" />
+        <module name="Class010" />
+        <module name="Class011" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Class003" target="1.5" />
+      <module name="CLass005" target="1.5" />
+      <module name="CLass006" target="1.5" />
+      <module name="Class007" target="1.5" />
+      <module name="Class009" target="1.5" />
+      <module name="Class010" target="1.5" />
+      <module name="Class011" target="1.5" />
+      <module name="SpringIoC" target="1.5" />
+      <module name="SpringLearning" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

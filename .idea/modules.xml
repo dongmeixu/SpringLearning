@@ -2,6 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringIoC/CLass005/CLass005.iml" filepath="$PROJECT_DIR$/SpringIoC/CLass005/CLass005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringIoC/CLass006/CLass006.iml" filepath="$PROJECT_DIR$/SpringIoC/CLass006/CLass006.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringIoC/Class003/Class003.iml" filepath="$PROJECT_DIR$/SpringIoC/Class003/Class003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringIoC/Class005/Class005.iml" filepath="$PROJECT_DIR$/SpringIoC/Class005/Class005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringIoC/Class007/Class007.iml" filepath="$PROJECT_DIR$/SpringIoC/Class007/Class007.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringIoC/Class009/Class009.iml" filepath="$PROJECT_DIR$/SpringIoC/Class009/Class009.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringIoC/Class010/Class010.iml" filepath="$PROJECT_DIR$/SpringIoC/Class010/Class010.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringIoC/Class011/Class011.iml" filepath="$PROJECT_DIR$/SpringIoC/Class011/Class011.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringIoC/SpringIoC.iml" filepath="$PROJECT_DIR$/SpringIoC/SpringIoC.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringLearning.iml" filepath="$PROJECT_DIR$/SpringLearning.iml" />
     </modules>
   </component>

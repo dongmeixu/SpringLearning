@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean class="Bean" id="bean1" name="bean1_1, bean1_2">
+    </bean>
+    <alias name="bean1" alias="bean1_3"></alias>
+    <bean class="Bean2Factory"
+          id="bean2" factory-method="getBean2"></bean>
+
+    <bean class="Bean3Factory" id="bean3Factory"></bean>
+    <bean class="Bean3" factory-bean="bean3Factory"
+          id="bean3" factory-method="getBean3"></bean>
+</beans>
