@@ -2,68 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4367d80c-72fa-452f-8bc4-9ac8b7593e1a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Spring_4_3_18_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/CLass005/CLass005.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/CLass005/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/CLass005/src/main/java/Bean1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/CLass005/src/main/java/Bean2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/CLass005/src/main/java/Bean2Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/CLass005/src/main/java/Bean3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/CLass005/src/main/java/Bean3Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/CLass005/src/main/resources/spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/CLass005/src/test/java/Class005Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/CLass006/CLass006.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/CLass006/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/CLass006/src/main/java/AnotherBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/CLass006/src/main/java/Bean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/CLass006/src/main/resources/spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/CLass006/src/test/java/Class006Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/Class003/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/Class007/Class007.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/Class007/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/Class007/src/main/java/Bean1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/Class007/src/main/java/Bean2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/Class007/src/main/resources/spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/Class007/src/test/java/Class007Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/Class009/Class009.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/Class009/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/Class009/src/main/java/Bean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/Class009/src/main/java/MyScope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/Class009/src/main/resources/spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/Class009/src/test/java/Class009Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/Class010/Class010.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/Class010/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/Class010/src/main/java/Bean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/Class010/src/main/resources/spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/Class010/src/test/java/Class010Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/Class011/Class011.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/Class011/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/Class011/src/main/java/Bean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/Class011/src/main/resources/spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/Class011/src/test/java/Class011Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/src/main/java/IoCContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/src/main/java/car/Audi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/src/main/java/car/Buick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/src/main/java/car/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/src/main/java/human/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/src/main/java/human/HumanWithCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/src/main/java/human/LiSi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/src/main/java/human/ZhangSan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringIoC/src/test/java/Class003Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringIoC/Class013/Class013.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringIoC/Class013/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringIoC/Class013/src/main/java/com/imooc/spring/ioc/class13/Bean1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringIoC/Class013/src/main/java/com/imooc/spring/ioc/class13/Bean2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringIoC/Class013/src/main/java/com/imooc/spring/ioc/class13/MyConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringIoC/Class013/src/main/java/com/imooc/spring/ioc/class13/MyConfiguration1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringIoC/Class013/src/test/java/Class013Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_beta_2.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringLearning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringIoC/CLass005/CLass005.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringIoC/CLass005/CLass005.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringIoC/CLass006/CLass006.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringIoC/CLass006/CLass006.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringIoC/Class003/Class003.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringIoC/Class003/Class003.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringIoC/Class007/Class007.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringIoC/Class007/Class007.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringIoC/Class007/src/main/resources/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringIoC/Class007/src/main/resources/spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringIoC/Class009/Class009.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringIoC/Class009/Class009.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringIoC/Class010/Class010.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringIoC/Class010/Class010.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringIoC/Class011/Class011.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringIoC/Class011/Class011.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringIoC/SpringIoC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringIoC/SpringIoC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringIoC/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringIoC/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -75,6 +34,7 @@
     <ignored path="$PROJECT_DIR$/SpringIoC/Class009/target/" />
     <ignored path="$PROJECT_DIR$/SpringIoC/Class010/target/" />
     <ignored path="$PROJECT_DIR$/SpringIoC/Class011/target/" />
+    <ignored path="$PROJECT_DIR$/SpringIoC/Class013/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,103 +44,105 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="spring.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpringIoC/Class009/src/main/resources/spring.xml">
+      <file leaf-file-name="ResourceLoader.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.6.RELEASE/spring-core-5.1.6.RELEASE-sources.jar!/org/springframework/core/io/ResourceLoader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+            <state relative-caret-position="101">
+              <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Class010Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpringIoC/Class010/src/test/java/Class010Test.java">
+      <file leaf-file-name="DefaultResourceLoader.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.6.RELEASE/spring-core-5.1.6.RELEASE-sources.jar!/org/springframework/core/io/DefaultResourceLoader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Bean.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpringIoC/Class010/src/main/java/Bean.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+            <state relative-caret-position="313">
+              <caret line="156" column="59" selection-start-line="156" selection-start-column="59" selection-end-line="156" selection-end-column="59" />
               <folding>
-                <element signature="e#102#103#0" expanded="true" />
-                <element signature="e#138#139#0" expanded="true" />
+                <element signature="e#2216#2217#0" expanded="true" />
+                <element signature="e#2276#2277#0" expanded="true" />
+                <element signature="e#2568#2569#0" expanded="true" />
+                <element signature="e#2605#2606#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyScope.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpringIoC/Class009/src/main/java/MyScope.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpringIoC/Class013/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bean1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpringIoC/Class013/src/main/java/com/imooc/spring/ioc/class13/Bean1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="spring.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpringIoC/Class010/src/main/resources/spring.xml">
+      <file leaf-file-name="MyConfiguration.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpringIoC/Class013/src/main/java/com/imooc/spring/ioc/class13/MyConfiguration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            <state relative-caret-position="154">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding>
+                <element signature="e#368#369#0" expanded="true" />
+                <element signature="e#421#422#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpringIoC/Class011/pom.xml">
+      <file leaf-file-name="Bean.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.6.RELEASE/spring-context-5.1.6.RELEASE.jar!/org/springframework/context/annotation/Bean.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+            <state relative-caret-position="113">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Class011Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpringIoC/Class011/src/test/java/Class011Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="22" selection-start-column="22" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spring.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SpringIoC/Class011/src/main/resources/spring.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Bean.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpringIoC/Class011/src/main/java/Bean.java">
+      <file leaf-file-name="MyConfiguration1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpringIoC/Class013/src/main/java/com/imooc/spring/ioc/class13/MyConfiguration1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#269#270#0" expanded="true" />
-                <element signature="e#318#319#0" expanded="true" />
-                <element signature="e#349#350#0" expanded="true" />
-                <element signature="e#401#402#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SpringIoC/Class010/pom.xml">
+      <file leaf-file-name="ComponentScan.class" pinned="false" current-in-tab="true">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.6.RELEASE/spring-context-5.1.6.RELEASE.jar!/org/springframework/context/annotation/ComponentScan.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="29" column="21" selection-start-line="14" selection-start-column="8" selection-end-line="29" selection-end-column="21" />
+            <state relative-caret-position="8">
+              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bean2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpringIoC/Class013/src/main/java/com/imooc/spring/ioc/class13/Bean2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Class013Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SpringIoC/Class013/src/test/java/Class013Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -196,6 +158,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getResource</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -230,7 +197,6 @@
         <option value="$PROJECT_DIR$/SpringIoC/Class007/src/test/java/Class007Test.java" />
         <option value="$PROJECT_DIR$/SpringIoC/Class007/src/main/resources/spring.xml" />
         <option value="$PROJECT_DIR$/SpringIoC/Class009/pom.xml" />
-        <option value="$PROJECT_DIR$/SpringIoC/Class009/src/main/java/MyScope.java" />
         <option value="$PROJECT_DIR$/SpringIoC/Class009/src/test/java/Class009Test.java" />
         <option value="$PROJECT_DIR$/SpringIoC/Class009/src/main/resources/spring.xml" />
         <option value="$PROJECT_DIR$/SpringIoC/Class010/pom.xml" />
@@ -238,10 +204,22 @@
         <option value="$PROJECT_DIR$/SpringIoC/Class010/src/main/java/Bean.java" />
         <option value="$PROJECT_DIR$/SpringIoC/Class010/src/test/java/Class010Test.java" />
         <option value="$PROJECT_DIR$/SpringIoC/Class010/src/main/resources/spring.xml" />
-        <option value="$PROJECT_DIR$/SpringIoC/Class011/pom.xml" />
         <option value="$PROJECT_DIR$/SpringIoC/Class011/src/test/java/Class011Test.java" />
         <option value="$PROJECT_DIR$/SpringIoC/Class011/src/main/java/Bean.java" />
         <option value="$PROJECT_DIR$/SpringIoC/Class011/src/main/resources/spring.xml" />
+        <option value="$PROJECT_DIR$/SpringIoC/Class011/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringIoC/Class009/src/main/java/MyScope.java" />
+        <option value="$PROJECT_DIR$/SpringIoC/Class011/src/main/java/Test.java" />
+        <option value="$PROJECT_DIR$/SpringIoC/Class013/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringIoC/Class013/src/main/java/MyConfiguration.java" />
+        <option value="$PROJECT_DIR$/SpringIoC/Class013/src/main/java/Bean2.java" />
+        <option value="$PROJECT_DIR$/SpringIoC/Class013/src/main/java/MyConfiguration1.java" />
+        <option value="$PROJECT_DIR$/SpringIoC/Class013/src/main/java/Bean1.java" />
+        <option value="$PROJECT_DIR$/SpringIoC/Class013/src/main/java/com/imooc/spring/ioc/class13/Bean1.java" />
+        <option value="$PROJECT_DIR$/SpringIoC/Class013/src/main/java/com/imooc/spring/ioc/class13/MyConfiguration1.java" />
+        <option value="$PROJECT_DIR$/SpringIoC/Class013/src/main/java/com/imooc/spring/ioc/class13/Bean2.java" />
+        <option value="$PROJECT_DIR$/SpringIoC/Class013/src/test/java/Class013Test.java" />
+        <option value="$PROJECT_DIR$/SpringIoC/Class013/src/main/java/com/imooc/spring/ioc/class13/MyConfiguration.java" />
       </list>
     </option>
   </component>
@@ -277,9 +255,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="504" />
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="275" />
+    <option name="y" value="28" />
     <option name="width" value="1440" />
     <option name="height" value="822" />
   </component>
@@ -305,50 +283,20 @@
               <item name="SpringLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringLearning" type="462c0819:PsiDirectoryNode" />
               <item name="SpringIoC" type="462c0819:PsiDirectoryNode" />
-              <item name="Class010" type="462c0819:PsiDirectoryNode" />
+              <item name="Class013" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringLearning" type="462c0819:PsiDirectoryNode" />
               <item name="SpringIoC" type="462c0819:PsiDirectoryNode" />
-              <item name="Class010" type="462c0819:PsiDirectoryNode" />
+              <item name="Class013" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringLearning" type="462c0819:PsiDirectoryNode" />
               <item name="SpringIoC" type="462c0819:PsiDirectoryNode" />
-              <item name="Class010" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringIoC" type="462c0819:PsiDirectoryNode" />
-              <item name="Class010" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringIoC" type="462c0819:PsiDirectoryNode" />
-              <item name="Class011" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringIoC" type="462c0819:PsiDirectoryNode" />
-              <item name="Class011" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringIoC" type="462c0819:PsiDirectoryNode" />
-              <item name="Class011" type="462c0819:PsiDirectoryNode" />
+              <item name="Class013" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -356,7 +304,7 @@
               <item name="SpringLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringLearning" type="462c0819:PsiDirectoryNode" />
               <item name="SpringIoC" type="462c0819:PsiDirectoryNode" />
-              <item name="Class011" type="462c0819:PsiDirectoryNode" />
+              <item name="Class013" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -365,10 +313,32 @@
               <item name="SpringLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringLearning" type="462c0819:PsiDirectoryNode" />
               <item name="SpringIoC" type="462c0819:PsiDirectoryNode" />
-              <item name="Class011" type="462c0819:PsiDirectoryNode" />
+              <item name="Class013" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="class13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringIoC" type="462c0819:PsiDirectoryNode" />
+              <item name="Class013" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringIoC" type="462c0819:PsiDirectoryNode" />
+              <item name="Class013" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -388,8 +358,13 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SpringIoC" />
+      <recent name="$PROJECT_DIR$/SpringIoC/com/imooc/spring/ioc" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
@@ -413,60 +388,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Class011Test.test">
+  <component name="RunManager" selected="JUnit.Class013Test.test">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="Class006Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CLass006" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Class006Test" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="Class007Test.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Class007" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Class007Test" />
-      <option name="METHOD_NAME" value="Test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="Class009Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Class009" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Class009Test" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
     <configuration name="Class010Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Class010" />
@@ -492,6 +416,57 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Class011Test" />
       <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Class013Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Class013" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Class013Test" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Class013Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Class013" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Class013Test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Class013Test.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Class013" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Class013Test" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -541,19 +516,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.Class006Test.test" />
-      <item itemvalue="JUnit.Class007Test.Test" />
-      <item itemvalue="JUnit.Class009Test.test" />
       <item itemvalue="JUnit.Class010Test.test" />
       <item itemvalue="JUnit.Class011Test.test" />
+      <item itemvalue="JUnit.Class013Test.test" />
+      <item itemvalue="JUnit.Class013Test.test1" />
+      <item itemvalue="JUnit.Class013Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Class013Test.test" />
+        <item itemvalue="JUnit.Class013Test.test1" />
+        <item itemvalue="JUnit.Class013Test" />
         <item itemvalue="JUnit.Class011Test.test" />
         <item itemvalue="JUnit.Class010Test.test" />
-        <item itemvalue="JUnit.Class009Test.test" />
-        <item itemvalue="JUnit.Class007Test.Test" />
-        <item itemvalue="JUnit.Class006Test.test" />
       </list>
     </recent_temporary>
   </component>
@@ -574,51 +549,58 @@
       <workItem from="1556610449905" duration="8000" />
       <workItem from="1556610950628" duration="3371000" />
       <workItem from="1556678302239" duration="20000" />
-      <workItem from="1556679977710" duration="12652000" />
+      <workItem from="1556679977710" duration="18850000" />
     </task>
+    <task id="LOCAL-00001" summary="learning spring-ioc">
+      <created>1557051522800</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557051522800</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Class009Test_test - 2019.05.01 at 14h 22m 48s.xml">
-      <configuration name="Class009Test.test" configurationId="JUnit" />
+    <history-entry file="Class013Test_test - 2019.05.06 at 19h 58m 51s.xml">
+      <configuration name="Class013Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Class009Test_test - 2019.05.01 at 14h 23m 01s.xml">
-      <configuration name="Class009Test.test" configurationId="JUnit" />
+    <history-entry file="Class013Test_test - 2019.05.06 at 19h 59m 55s.xml">
+      <configuration name="Class013Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Class010Test_test - 2019.05.05 at 12h 40m 32s.xml">
-      <configuration name="Class010Test.test" configurationId="JUnit" />
+    <history-entry file="Class013Test_test - 2019.05.06 at 20h 01m 52s.xml">
+      <configuration name="Class013Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Class010Test_test - 2019.05.05 at 12h 46m 13s.xml">
-      <configuration name="Class010Test.test" configurationId="JUnit" />
+    <history-entry file="Class013Test_test1 - 2019.05.06 at 20h 08m 12s.xml">
+      <configuration name="Class013Test.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Class011Test_test - 2019.05.05 at 13h 03m 54s.xml">
-      <configuration name="Class011Test.test" configurationId="JUnit" />
+    <history-entry file="Class013Test_test1 - 2019.05.06 at 20h 09m 46s.xml">
+      <configuration name="Class013Test.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Class011Test_test - 2019.05.05 at 13h 05m 50s.xml">
-      <configuration name="Class011Test.test" configurationId="JUnit" />
+    <history-entry file="Class013Test - 2019.05.06 at 20h 13m 10s.xml">
+      <configuration name="Class013Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Class011Test_test - 2019.05.05 at 13h 08m 17s.xml">
-      <configuration name="Class011Test.test" configurationId="JUnit" />
+    <history-entry file="Class013Test - 2019.05.06 at 20h 14m 16s.xml">
+      <configuration name="Class013Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Class011Test_test - 2019.05.05 at 13h 08m 31s.xml">
-      <configuration name="Class011Test.test" configurationId="JUnit" />
+    <history-entry file="Class013Test - 2019.05.06 at 20h 14m 27s.xml">
+      <configuration name="Class013Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Class011Test_test - 2019.05.05 at 13h 09m 06s.xml">
-      <configuration name="Class011Test.test" configurationId="JUnit" />
+    <history-entry file="Class013Test_test1 - 2019.05.06 at 20h 16m 18s.xml">
+      <configuration name="Class013Test.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Class011Test_test - 2019.05.05 at 13h 09m 18s.xml">
-      <configuration name="Class011Test.test" configurationId="JUnit" />
+    <history-entry file="Class013Test_test - 2019.05.06 at 20h 19m 57s.xml">
+      <configuration name="Class013Test.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18009000" />
+    <option name="totallyTimeSpent" value="24207000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="822" extended-state="6" />
-    <editor active="true" />
+    <frame x="275" y="28" width="1440" height="822" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007153" side_tool="true" weight="0.32965517" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.3297568" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
@@ -633,10 +615,10 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32965517" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4951724" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49928468" weight="0.32965517" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4951724" />
       <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32965517" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.65931034" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26609442" />
       <window_info anchor="bottom" id="JProfiler" order="7" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32965517" />
@@ -652,8 +634,38 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="learning spring-ioc" />
+    <option name="LAST_COMMIT_MESSAGE" value="learning spring-ioc" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -674,142 +686,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SpringIoC/src/test/java/Class003Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringIoC/src/main/java/IoCContainer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringLearning.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringIoC/Class003/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringIoC/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringIoC/src/main/java/car/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringIoC/src/main/java/car/Audi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="37" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringIoC/src/main/java/car/Buick.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringIoC/src/main/java/human/Human.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringIoC/src/main/java/human/HumanWithCar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringIoC/src/main/java/human/ZhangSan.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-          <folding>
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringIoC/src/main/java/human/LiSi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-          <folding>
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SpringIoC/src/test/java/Class003Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SpringIoC/CLass005/src/main/resources/spring.xml.tld">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1048,13 +924,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SpringIoC/Class009/src/main/java/MyScope.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SpringIoC/Class009/src/main/resources/spring.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1094,17 +963,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SpringIoC/Class011/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SpringIoC/Class011/src/main/java/Bean.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#269#270#0" expanded="true" />
@@ -1124,8 +986,161 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SpringIoC/Class011/src/main/resources/spring.xml">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringIoC/Class011/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.6.RELEASE/spring-core-5.1.6.RELEASE.jar!/org/springframework/core/io/InputStreamSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringIoC/Class009/src/main/java/MyScope.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/net/URL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2256">
+          <caret line="139" column="19" selection-start-line="139" selection-start-column="19" selection-end-line="139" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringIoC/Class011/src/main/java/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.6.RELEASE/spring-core-5.1.6.RELEASE-sources.jar!/org/springframework/core/io/InputStreamSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.6.RELEASE/spring-core-5.1.6.RELEASE-sources.jar!/org/springframework/util/ResourceUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5550">
+          <caret line="392" selection-start-line="49" selection-end-line="392" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.6.RELEASE/spring-core-5.1.6.RELEASE-sources.jar!/org/springframework/core/io/FileSystemResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="60" column="13" lean-forward="true" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.6.RELEASE/spring-core-5.1.6.RELEASE-sources.jar!/org/springframework/core/io/AbstractResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.6.RELEASE/spring-core-5.1.6.RELEASE-sources.jar!/org/springframework/core/io/Resource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="51" column="21" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.6.RELEASE/spring-core-5.1.6.RELEASE-sources.jar!/org/springframework/core/io/ResourceLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.6.RELEASE/spring-core-5.1.6.RELEASE-sources.jar!/org/springframework/core/io/DefaultResourceLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="156" column="59" selection-start-line="156" selection-start-column="59" selection-end-line="156" selection-end-column="59" />
+          <folding>
+            <element signature="e#2216#2217#0" expanded="true" />
+            <element signature="e#2276#2277#0" expanded="true" />
+            <element signature="e#2568#2569#0" expanded="true" />
+            <element signature="e#2605#2606#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringIoC/Class013/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringIoC/Class013/src/main/java/com/imooc/spring/ioc/class13/Bean1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringIoC/Class013/src/main/java/com/imooc/spring/ioc/class13/Bean2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringIoC/Class013/src/test/java/Class013Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringIoC/Class013/src/main/java/com/imooc/spring/ioc/class13/MyConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.6.RELEASE/spring-context-5.1.6.RELEASE.jar!/org/springframework/context/annotation/Bean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringIoC/Class013/src/main/java/com/imooc/spring/ioc/class13/MyConfiguration1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.6.RELEASE/spring-context-5.1.6.RELEASE.jar!/org/springframework/context/annotation/ComponentScan.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1181,11 +1196,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring|Class007</last-edited>
+          <last-edited>Class013</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1205,7 +1221,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: junit:junit:4.13-beta-2</last-edited>
+          <last-edited>Maven: junit:junit:4.13-beta-3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

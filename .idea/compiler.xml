@@ -13,6 +13,7 @@
         <module name="Class009" />
         <module name="Class010" />
         <module name="Class011" />
+        <module name="Class013" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -23,6 +24,7 @@
       <module name="Class009" target="1.5" />
       <module name="Class010" target="1.5" />
       <module name="Class011" target="1.5" />
+      <module name="Class013" target="1.5" />
       <module name="SpringIoC" target="1.5" />
       <module name="SpringLearning" target="1.5" />
     </bytecodeTargetLevel>

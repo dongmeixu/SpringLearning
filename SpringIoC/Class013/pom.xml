@@ -3,31 +3,31 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>SpringLearning</artifactId>
+        <artifactId>SpringIoC</artifactId>
         <groupId>SpringLearning</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>SpringIoC</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>Class003</module>
-        <module>CLass005</module>
-        <module>Class007</module>
-        <module>Class009</module>
-        <module>Class010</module>
-        <module>Class011</module>
-        <module>Class013</module>
-    </modules>
+    <artifactId>Class013</artifactId>
+
     <dependencies>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-core</artifactId>
+            <version>RELEASE</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+            <version>RELEASE</version>
+        </dependency>
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>RELEASE</version>
-            <scope>test</scope>
         </dependency>
-    </dependencies>
 
+    </dependencies>
 
 </project>

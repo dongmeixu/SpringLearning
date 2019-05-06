@@ -6,8 +6,8 @@
        http://www.springframework.org/schema/beans/spring-beans.xsd">
 
 
-    <bean class="Bean2" id="bean2" scope="singleton"/>
-    <bean class="Bean1" id="bean1" scope="prototype">
+    <bean class="com.imooc.spring.ioc.class13.Bean2" id="bean2" scope="singleton"/>
+    <bean class="com.imooc.spring.ioc.class13.Bean1" id="bean1" scope="prototype">
         <property name="bean2" ref="bean2"/>
     </bean>
 </beans>
